@@ -1,16 +1,16 @@
 # notification_sender
 
-A new Flutter project.
+System for notifying about released reservations at service points.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+Flutter project prepared as part of an engineering thesis.
 
-A few resources to get you started if this is your first Flutter project:
+The main functionality was implemented with Firebase Authentication, Messaging and Realtime Database.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/DVxYgSWkHqw/0.jpg)](http://www.youtube.com/watch?v=DVxYgSWkHqw "Thesis project")
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Description of the video:
+On the left side there is administration panel where administrator is adding topics. 
+On the right side there is user panel where subscription is done by the user.
+At the end of the process administrator notifies subsribed users about time of released reservation.
